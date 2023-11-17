@@ -5,7 +5,8 @@ Este é um exemplo simples de simulação quântica usando a biblioteca Cirq do 
 
 <img src="http://orig01.deviantart.net/ee89/f/2011/293/6/3/qubit_by_daftatt-d4dfbe9.png"/>
 
-Este é um exemplo simples de simulação quântica usando a biblioteca Cirq do Google. O código
+Este é um exemplo simples de simulação quântica usando a biblioteca Cirq do Google. O código cria um qubit, aplica um gate Hadamard a ele, mede o resultado e executa uma simulação usando um simulador.
+
 ## Requisitos
 - Python 3.x
 - Biblioteca Cirq
